@@ -65,7 +65,4 @@ $ gcloud run deploy --image gcr.io/[project-id-kalian]/fastapi-model-deployment 
  
 12. GCP akan meminta Anda untuk memilih wilayah (region) untuk mendeploy layanan Cloud Run. Pilih wilayah yang sesuai dengan kebutuhan Anda.
 
-13. Setelah proses deploy selesai, GCP akan memberikan URL yang dapat digunakan untuk mengakses aplikasi FastAPI yang dideploy. Salin URL tersebut dari output dan coba akses di web browser atau dengan menggunakan      perangkat lunak pengujian API seperti Postman.
-
-## Demo FastAPI Models 
-Untuk mencoba demo model diatas bisa buka link tersebut : https://fastapi-model-deployment-dl6yh3mkfa-et.a.run.app/docs
+13. Setelah proses deploy selesai, GCP akan memberikan URL yang dapat digunakan untuk mengakses aplikasi FastAPI yang dideploy. Salin URL tersebut dari output dan coba akses di web browser atau dengan menggunakan perangkat lunak pengujian API seperti Postman.
